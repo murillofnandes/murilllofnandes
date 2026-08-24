@@ -39,9 +39,13 @@ MySQL / MariaDB
 
 ## 📊 Estatísticas GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=murillofnandes&show_icons=true&hide_border=true&theme=github_dark&count_private=true" height="170" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=murillofnandes&theme=github_dark" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murillofnandes&layout=compact&hide_border=true&theme=github_dark" height="170" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=murillofnandes&theme=github_dark" />
+</p>
 
 
 🎯 Atualmente Aprendendo

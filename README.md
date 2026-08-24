@@ -35,20 +35,15 @@ Vim / Neovim
 Banco de Dados
 <p> <img src="https://skillicons.dev/icons?i=mysql" alt="Database" /> </p>
 MySQL / MariaDB
+
+
 ## 📊 Estatísticas GitHub
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=murillofnandes&show_icons=true&hide_border=true&theme=github_dark&count_private=true"
-    height="170"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=murillofnandes&layout=compact&hide_border=true&theme=github_dark"
-    height="170"
-    alt="Top Languages"
-  />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=murillofnandes&show_icons=true&hide_border=true&theme=github_dark&count_private=true" height="170" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murillofnandes&layout=compact&hide_border=true&theme=github_dark" height="170" alt="Top Languages" />
+
+
 🎯 Atualmente Aprendendo
 🐧 Linux & Administração de Sistemas - Configuração, gerenciamento de usuários, permissões
 🌐 Redes de Computadores - Protocolos, TCP/IP, DNS, HTTP/HTTPS
